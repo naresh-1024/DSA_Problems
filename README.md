@@ -21,4 +21,16 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
