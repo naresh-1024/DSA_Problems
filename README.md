@@ -9,6 +9,7 @@ My LeetCode solutions in Java
 | [0001-two-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
