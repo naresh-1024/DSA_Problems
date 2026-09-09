@@ -7,6 +7,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -17,6 +18,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Database
@@ -69,5 +71,14 @@ My LeetCode solutions in Java
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
