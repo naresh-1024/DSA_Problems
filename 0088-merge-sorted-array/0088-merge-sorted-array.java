@@ -7,7 +7,7 @@ class Solution {
         {
             if(nums1_idx>=0 && nums1[nums1_idx] > nums2[nums2_idx])
             {
-                nums1[inc_idx]=nums2[nums1_idx];
+                nums1[inc_idx]=nums1[nums1_idx];
                 nums1_idx--;
             }
             else
