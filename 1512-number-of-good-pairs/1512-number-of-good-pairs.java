@@ -1,10 +1,15 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-        int ans=0;
-        int []count=new int[101];
-        for(int num : nums){
-            ans+=count[num]++;
+        HashMap<Integer,Integer> map = new HashMap<>();
+    
+        for(int i : nums){
+           map.put(i,map.getOrDefault(i,0)+1);
         }
-        return ans;
+        int sum=0;
+        for(int num : map.values()){
+            sum+=num*(num-1)/2;
+        }
+
+        return sum;
     }
 }
