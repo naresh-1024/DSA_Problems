@@ -25,6 +25,7 @@ My LeetCode solutions in Java
 | [0001-two-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/naresh-1024/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/naresh-1024/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
@@ -71,6 +72,7 @@ My LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/naresh-1024/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -86,6 +88,7 @@ My LeetCode solutions in Java
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
