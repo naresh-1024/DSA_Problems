@@ -16,6 +16,7 @@ My LeetCode solutions in Java
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -79,6 +80,7 @@ My LeetCode solutions in Java
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3903-smallest-stable-index-i) |
 ## String
