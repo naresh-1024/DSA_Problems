@@ -13,6 +13,7 @@ My LeetCode solutions in Java
 | [0088-merge-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/naresh-1024/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
@@ -80,6 +81,7 @@ My LeetCode solutions in Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3903-smallest-stable-index-i) |
@@ -168,4 +170,8 @@ My LeetCode solutions in Java
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
