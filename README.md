@@ -68,6 +68,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0836-rectangle-overlap](https://github.com/naresh-1024/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/1922-count-good-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -188,4 +189,8 @@ My LeetCode solutions in Java
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/naresh-1024/DSA_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
