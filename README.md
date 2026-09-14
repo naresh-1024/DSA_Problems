@@ -14,6 +14,7 @@ My LeetCode solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/naresh-1024/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -86,6 +87,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -162,6 +164,7 @@ My LeetCode solutions in Java
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -184,4 +187,5 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
