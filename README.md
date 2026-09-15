@@ -19,6 +19,7 @@ My LeetCode solutions in Java
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -126,6 +127,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
