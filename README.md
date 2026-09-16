@@ -20,6 +20,7 @@ My LeetCode solutions in Java
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -186,6 +187,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
