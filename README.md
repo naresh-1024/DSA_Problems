@@ -12,6 +12,7 @@ My LeetCode solutions in Java
 | [0027-remove-element](https://github.com/naresh-1024/DSA_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/naresh-1024/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -92,6 +93,7 @@ My LeetCode solutions in Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +132,7 @@ My LeetCode solutions in Java
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
@@ -190,6 +193,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/naresh-1024/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
