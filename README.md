@@ -24,6 +24,7 @@ My LeetCode solutions in Java
 | [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
+| [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -98,6 +99,7 @@ My LeetCode solutions in Java
 | [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
+| [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3903-smallest-stable-index-i) |
@@ -135,6 +137,7 @@ My LeetCode solutions in Java
 | [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +200,7 @@ My LeetCode solutions in Java
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/naresh-1024/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/naresh-1024/DSA_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Design
