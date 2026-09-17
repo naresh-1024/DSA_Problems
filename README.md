@@ -71,6 +71,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0367-valid-perfect-square](https://github.com/naresh-1024/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/naresh-1024/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/1922-count-good-numbers) |
@@ -188,6 +189,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/naresh-1024/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/naresh-1024/DSA_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Design
