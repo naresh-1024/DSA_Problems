@@ -21,6 +21,7 @@ My LeetCode solutions in Java
 | [0560-subarray-sum-equals-k](https://github.com/naresh-1024/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/naresh-1024/DSA_Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
@@ -179,6 +180,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/naresh-1024/DSA_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0661-image-smoother](https://github.com/naresh-1024/DSA_Problems/tree/master/0661-image-smoother) |
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
