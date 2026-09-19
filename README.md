@@ -24,6 +24,7 @@ My LeetCode solutions in Java
 | [0661-image-smoother](https://github.com/naresh-1024/DSA_Problems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/naresh-1024/DSA_Problems/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/naresh-1024/DSA_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -111,6 +112,7 @@ My LeetCode solutions in Java
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0771-jewels-and-stones](https://github.com/naresh-1024/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/naresh-1024/DSA_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
 | [0917-reverse-only-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/naresh-1024/DSA_Problems/tree/master/0925-long-pressed-name) |
@@ -192,6 +194,7 @@ My LeetCode solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/naresh-1024/DSA_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0821-shortest-distance-to-a-character](https://github.com/naresh-1024/DSA_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/naresh-1024/DSA_Problems/tree/master/0925-long-pressed-name) |
 ## Binary Search
