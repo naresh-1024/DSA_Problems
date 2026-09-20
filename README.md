@@ -118,10 +118,12 @@ My LeetCode solutions in Java
 | [0925-long-pressed-name](https://github.com/naresh-1024/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/naresh-1024/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/naresh-1024/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
