@@ -73,6 +73,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/naresh-1024/DSA_Problems/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/naresh-1024/DSA_Problems/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
