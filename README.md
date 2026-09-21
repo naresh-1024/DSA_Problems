@@ -53,6 +53,7 @@ My LeetCode solutions in Java
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naresh-1024/DSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -118,6 +119,7 @@ My LeetCode solutions in Java
 | [0925-long-pressed-name](https://github.com/naresh-1024/DSA_Problems/tree/master/0925-long-pressed-name) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naresh-1024/DSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/naresh-1024/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -136,6 +138,7 @@ My LeetCode solutions in Java
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naresh-1024/DSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +146,7 @@ My LeetCode solutions in Java
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/naresh-1024/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naresh-1024/DSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
