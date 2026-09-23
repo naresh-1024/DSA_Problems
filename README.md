@@ -11,6 +11,7 @@ My LeetCode solutions in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naresh-1024/DSA_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/naresh-1024/DSA_Problems/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/naresh-1024/DSA_Problems/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/naresh-1024/DSA_Problems/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
@@ -232,4 +234,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
