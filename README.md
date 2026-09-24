@@ -38,6 +38,7 @@ My LeetCode solutions in Java
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naresh-1024/DSA_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3903-smallest-stable-index-i) |
@@ -90,6 +91,7 @@ My LeetCode solutions in Java
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/naresh-1024/DSA_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/naresh-1024/DSA_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/naresh-1024/DSA_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
