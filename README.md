@@ -71,6 +71,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/naresh-1024/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -119,6 +120,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/naresh-1024/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/naresh-1024/DSA_Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -240,4 +242,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
