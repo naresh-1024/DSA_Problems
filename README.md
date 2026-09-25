@@ -31,6 +31,7 @@ My LeetCode solutions in Java
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/naresh-1024/DSA_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/naresh-1024/DSA_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -73,6 +74,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/naresh-1024/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/naresh-1024/DSA_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -251,5 +253,6 @@ My LeetCode solutions in Java
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/naresh-1024/DSA_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/naresh-1024/DSA_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
