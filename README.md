@@ -35,6 +35,7 @@ My LeetCode solutions in Java
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/naresh-1024/DSA_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/naresh-1024/DSA_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -135,6 +136,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/naresh-1024/DSA_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3498-reverse-degree-of-a-string](https://github.com/naresh-1024/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -246,4 +248,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/naresh-1024/DSA_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
