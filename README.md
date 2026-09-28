@@ -277,19 +277,23 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
