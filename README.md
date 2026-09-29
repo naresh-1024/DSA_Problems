@@ -124,6 +124,7 @@ My LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
@@ -282,6 +283,7 @@ My LeetCode solutions in Java
 | [0110-balanced-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -302,6 +304,7 @@ My LeetCode solutions in Java
 | [0110-balanced-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -312,7 +315,12 @@ My LeetCode solutions in Java
 | [0110-balanced-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
