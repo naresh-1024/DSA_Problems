@@ -286,6 +286,7 @@ My LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -307,6 +308,7 @@ My LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -318,9 +320,14 @@ My LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
