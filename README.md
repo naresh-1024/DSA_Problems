@@ -287,6 +287,7 @@ My LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -299,6 +300,7 @@ My LeetCode solutions in Java
 | [0226-invert-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -312,6 +314,7 @@ My LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -326,6 +329,7 @@ My LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/naresh-1024/DSA_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/naresh-1024/DSA_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0617-merge-two-binary-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
