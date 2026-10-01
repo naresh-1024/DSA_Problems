@@ -11,6 +11,7 @@ My LeetCode solutions in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naresh-1024/DSA_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naresh-1024/DSA_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -270,6 +271,7 @@ My LeetCode solutions in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -281,6 +283,7 @@ My LeetCode solutions in Java
 | [0094-binary-tree-inorder-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0226-invert-binary-tree) |
@@ -311,6 +314,7 @@ My LeetCode solutions in Java
 | [0094-binary-tree-inorder-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0226-invert-binary-tree) |
@@ -347,6 +351,7 @@ My LeetCode solutions in Java
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Lifting
