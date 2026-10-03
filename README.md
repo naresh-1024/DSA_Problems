@@ -125,6 +125,7 @@ My LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -254,6 +255,7 @@ My LeetCode solutions in Java
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Queue
@@ -369,4 +371,12 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
