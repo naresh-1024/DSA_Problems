@@ -35,6 +35,7 @@ My LeetCode solutions in Java
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1920-build-array-from-permutation](https://github.com/naresh-1024/DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/naresh-1024/DSA_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -144,6 +145,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/naresh-1024/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1920-build-array-from-permutation](https://github.com/naresh-1024/DSA_Problems/tree/master/1920-build-array-from-permutation) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/naresh-1024/DSA_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3498-reverse-degree-of-a-string](https://github.com/naresh-1024/DSA_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
