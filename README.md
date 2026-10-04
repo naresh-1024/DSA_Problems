@@ -79,6 +79,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/naresh-1024/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/naresh-1024/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/naresh-1024/DSA_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
@@ -131,6 +132,7 @@ My LeetCode solutions in Java
 | [0383-ransom-note](https://github.com/naresh-1024/DSA_Problems/tree/master/0383-ransom-note) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0649-dota2-senate](https://github.com/naresh-1024/DSA_Problems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/naresh-1024/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/naresh-1024/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/naresh-1024/DSA_Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -260,6 +262,7 @@ My LeetCode solutions in Java
 | [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/naresh-1024/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/naresh-1024/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Queue
 |  |
 | ------- |
@@ -385,8 +388,10 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/naresh-1024/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/naresh-1024/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
