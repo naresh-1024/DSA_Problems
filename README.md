@@ -32,6 +32,7 @@ My LeetCode solutions in Java
 | [0848-shifting-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/naresh-1024/DSA_Problems/tree/master/1046-last-stone-weight) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naresh-1024/DSA_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/naresh-1024/DSA_Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Java
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/naresh-1024/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/naresh-1024/DSA_Problems/tree/master/0819-most-common-word) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naresh-1024/DSA_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naresh-1024/DSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -181,6 +183,7 @@ My LeetCode solutions in Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naresh-1024/DSA_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/naresh-1024/DSA_Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/naresh-1024/DSA_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naresh-1024/DSA_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
@@ -396,4 +399,8 @@ My LeetCode solutions in Java
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/naresh-1024/DSA_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/naresh-1024/DSA_Problems/tree/master/0678-valid-parenthesis-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naresh-1024/DSA_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
