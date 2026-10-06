@@ -410,4 +410,8 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naresh-1024/DSA_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
