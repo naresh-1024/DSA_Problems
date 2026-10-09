@@ -338,6 +338,7 @@ My LeetCode solutions in Java
 | [0637-average-of-levels-in-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/naresh-1024/DSA_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/naresh-1024/DSA_Problems/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/naresh-1024/DSA_Problems/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -386,6 +387,7 @@ My LeetCode solutions in Java
 | [0637-average-of-levels-in-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/naresh-1024/DSA_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/naresh-1024/DSA_Problems/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/naresh-1024/DSA_Problems/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/naresh-1024/DSA_Problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0965-univalued-binary-tree) |
@@ -427,6 +429,7 @@ My LeetCode solutions in Java
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/naresh-1024/DSA_Problems/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/naresh-1024/DSA_Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
