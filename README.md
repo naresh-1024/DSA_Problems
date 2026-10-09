@@ -340,6 +340,7 @@ My LeetCode solutions in Java
 | [0733-flood-fill](https://github.com/naresh-1024/DSA_Problems/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +390,7 @@ My LeetCode solutions in Java
 | [0938-range-sum-of-bst](https://github.com/naresh-1024/DSA_Problems/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -427,8 +429,10 @@ My LeetCode solutions in Java
 | ------- |
 | [0997-find-the-town-judge](https://github.com/naresh-1024/DSA_Problems/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/naresh-1024/DSA_Problems/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
