@@ -94,6 +94,7 @@ My LeetCode solutions in Java
 | [0002-add-two-numbers](https://github.com/naresh-1024/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/naresh-1024/DSA_Problems/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naresh-1024/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +241,7 @@ My LeetCode solutions in Java
 | [0821-shortest-distance-to-a-character](https://github.com/naresh-1024/DSA_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/naresh-1024/DSA_Problems/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/naresh-1024/DSA_Problems/tree/master/0925-long-pressed-name) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naresh-1024/DSA_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
