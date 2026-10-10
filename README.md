@@ -10,6 +10,7 @@ My LeetCode solutions in Java
 | [0011-container-with-most-water](https://github.com/naresh-1024/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naresh-1024/DSA_Problems/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/naresh-1024/DSA_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/naresh-1024/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naresh-1024/DSA_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naresh-1024/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -160,6 +161,7 @@ My LeetCode solutions in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/naresh-1024/DSA_Problems/tree/master/0078-subsets) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/naresh-1024/DSA_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -396,6 +398,7 @@ My LeetCode solutions in Java
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/naresh-1024/DSA_Problems/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/naresh-1024/DSA_Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
