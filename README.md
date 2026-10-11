@@ -47,6 +47,7 @@ My LeetCode solutions in Java
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/naresh-1024/DSA_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naresh-1024/DSA_Problems/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/naresh-1024/DSA_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/naresh-1024/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/naresh-1024/DSA_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/naresh-1024/DSA_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/naresh-1024/DSA_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -441,4 +442,8 @@ My LeetCode solutions in Java
 | ------- |
 | [0695-max-area-of-island](https://github.com/naresh-1024/DSA_Problems/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/naresh-1024/DSA_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/naresh-1024/DSA_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
