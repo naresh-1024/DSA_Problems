@@ -80,6 +80,7 @@ My LeetCode solutions in Java
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/naresh-1024/DSA_Problems/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/naresh-1024/DSA_Problems/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/naresh-1024/DSA_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/naresh-1024/DSA_Problems/tree/master/0620-not-boring-movies) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/naresh-1024/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
