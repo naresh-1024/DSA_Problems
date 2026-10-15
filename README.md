@@ -84,6 +84,7 @@ My LeetCode solutions in Java
 | [0596-classes-with-at-least-5-students](https://github.com/naresh-1024/DSA_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/naresh-1024/DSA_Problems/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/naresh-1024/DSA_Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1193-monthly-transactions-i](https://github.com/naresh-1024/DSA_Problems/tree/master/1193-monthly-transactions-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/naresh-1024/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/naresh-1024/DSA_Problems/tree/master/1667-fix-names-in-a-table) |
 ## Greedy
