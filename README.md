@@ -88,6 +88,7 @@ My LeetCode solutions in Java
 | [1045-customers-who-bought-all-products](https://github.com/naresh-1024/DSA_Problems/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/naresh-1024/DSA_Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/naresh-1024/DSA_Problems/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/naresh-1024/DSA_Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/naresh-1024/DSA_Problems/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/naresh-1024/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/naresh-1024/DSA_Problems/tree/master/1667-fix-names-in-a-table) |
