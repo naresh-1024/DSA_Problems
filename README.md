@@ -83,6 +83,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0197-rising-temperature](https://github.com/naresh-1024/DSA_Problems/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/naresh-1024/DSA_Problems/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/naresh-1024/DSA_Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/naresh-1024/DSA_Problems/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/naresh-1024/DSA_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/naresh-1024/DSA_Problems/tree/master/0601-human-traffic-of-stadium) |
