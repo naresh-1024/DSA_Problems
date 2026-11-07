@@ -98,6 +98,7 @@ My LeetCode solutions in Java
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/naresh-1024/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/naresh-1024/DSA_Problems/tree/master/1667-fix-names-in-a-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/naresh-1024/DSA_Problems/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3374-first-letter-capitalization-ii](https://github.com/naresh-1024/DSA_Problems/tree/master/3374-first-letter-capitalization-ii) |
 | [3451-find-invalid-ip-addresses](https://github.com/naresh-1024/DSA_Problems/tree/master/3451-find-invalid-ip-addresses) |
 | [3554-find-category-recommendation-pairs](https://github.com/naresh-1024/DSA_Problems/tree/master/3554-find-category-recommendation-pairs) |
 | [3611-find-overbooked-employees](https://github.com/naresh-1024/DSA_Problems/tree/master/3611-find-overbooked-employees) |
