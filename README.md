@@ -97,6 +97,7 @@ My LeetCode solutions in Java
 | [1204-last-person-to-fit-in-the-bus](https://github.com/naresh-1024/DSA_Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1280-students-and-examinations](https://github.com/naresh-1024/DSA_Problems/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/naresh-1024/DSA_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1407-top-travellers](https://github.com/naresh-1024/DSA_Problems/tree/master/1407-top-travellers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/naresh-1024/DSA_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/naresh-1024/DSA_Problems/tree/master/1667-fix-names-in-a-table) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/naresh-1024/DSA_Problems/tree/master/1978-employees-whose-manager-left-the-company) |
