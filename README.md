@@ -91,6 +91,7 @@ My LeetCode solutions in Java
 | [0584-find-customer-referee](https://github.com/naresh-1024/DSA_Problems/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/naresh-1024/DSA_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/naresh-1024/DSA_Problems/tree/master/0601-human-traffic-of-stadium) |
+| [0607-sales-person](https://github.com/naresh-1024/DSA_Problems/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/naresh-1024/DSA_Problems/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/naresh-1024/DSA_Problems/tree/master/1045-customers-who-bought-all-products) |
 | [1084-sales-analysis-iii](https://github.com/naresh-1024/DSA_Problems/tree/master/1084-sales-analysis-iii) |
