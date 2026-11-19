@@ -83,6 +83,7 @@ My LeetCode solutions in Java
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/naresh-1024/DSA_Problems/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/naresh-1024/DSA_Problems/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/naresh-1024/DSA_Problems/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/naresh-1024/DSA_Problems/tree/master/0262-trips-and-users) |
