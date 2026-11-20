@@ -85,6 +85,7 @@ My LeetCode solutions in Java
 | ------- |
 | [0176-second-highest-salary](https://github.com/naresh-1024/DSA_Problems/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/naresh-1024/DSA_Problems/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/naresh-1024/DSA_Problems/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/naresh-1024/DSA_Problems/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/naresh-1024/DSA_Problems/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/naresh-1024/DSA_Problems/tree/master/0550-game-play-analysis-iv) |
